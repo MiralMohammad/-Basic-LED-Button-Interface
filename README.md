@@ -33,8 +33,6 @@ Each button is connected to a **digital input pin** on the Arduino. When a butto
 
 ## 📜 Arduino Code
 
-The code to control the LEDs is located in [**led_control.ino**](./led_control.ino)
-
 ```cpp
 // Pins for LEDs
 const int led1 = 8;
