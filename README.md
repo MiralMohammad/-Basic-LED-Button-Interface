@@ -3,7 +3,7 @@
 
 This project is a simple and fun demonstration of how to control **three LEDs** using **three individual push buttons** with an Arduino UNO. Each button controls one LED independently.
 
-![Circuit Diagram](./LedButtonController.png)
+![Circuit Diagram](./LedButtonController22.png)
 
 ---
 
